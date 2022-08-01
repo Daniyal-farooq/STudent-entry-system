@@ -28,7 +28,7 @@ void enter()
 	else
 	{
 
-		for(  int i = total ; i < choice + choice ; i++)
+		for(  int i = total ; i < total + choice ; i++)
 		{
 			cout<<"Enter the data of student# "<<i+1<<endl;
 			cout<<"Enter name       : ";
